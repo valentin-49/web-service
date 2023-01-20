@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c5ab112-a71b-47fa-9e87-09717149d93d" name="Changes" comment="dempartner new version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/views/CustomersView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/views/CustomersView.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29w07zE2wnD7c0aLd4PEPObwKNd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "16.15.0",
+    "javascript.nodejs.core.library.typings.version": "16.11.38",
+    "last_opened_file_path": "C:/Users/gardi/Documents/GitHub/dempartner/frontend",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gardi\Documents\GitHub\dempartner\backend\sql" />
+      <recent name="C:\Users\gardi\Documents\GitHub\dempartner\backend\services" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c5ab112-a71b-47fa-9e87-09717149d93d" name="Changes" comment="" />
+      <created>1654008676622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654008676622</updated>
+      <workItem from="1654008677857" duration="14424000" />
+      <workItem from="1654154779813" duration="10119000" />
+      <workItem from="1654172279526" duration="5241000" />
+      <workItem from="1654177656377" duration="956000" />
+      <workItem from="1654178664836" duration="302000" />
+      <workItem from="1654178978660" duration="424000" />
+      <workItem from="1654179497067" duration="1904000" />
+      <workItem from="1654240991434" duration="5645000" />
+      <workItem from="1654246685196" duration="1758000" />
+      <workItem from="1654248947363" duration="356000" />
+      <workItem from="1654249314140" duration="4668000" />
+      <workItem from="1654259897888" duration="672000" />
+      <workItem from="1654260975683" duration="601000" />
+      <workItem from="1654261589695" duration="337000" />
+      <workItem from="1654261945272" duration="876000" />
+      <workItem from="1654263442415" duration="1073000" />
+      <workItem from="1654264675479" duration="1628000" />
+      <workItem from="1654592735265" duration="295000" />
+      <workItem from="1654593047344" duration="4820000" />
+      <workItem from="1654604368602" duration="624000" />
+      <workItem from="1654605120891" duration="6904000" />
+      <workItem from="1654672779992" duration="4623000" />
+      <workItem from="1654760240537" duration="4751000" />
+      <workItem from="1654765070354" duration="3762000" />
+      <workItem from="1654769299136" duration="415000" />
+      <workItem from="1654769726128" duration="810000" />
+      <workItem from="1654770550194" duration="3195000" />
+      <workItem from="1654846557225" duration="3376000" />
+      <workItem from="1655303685516" duration="3292000" />
+      <workItem from="1655365379714" duration="2155000" />
+      <workItem from="1655367613443" duration="1693000" />
+      <workItem from="1655369554288" duration="1208000" />
+      <workItem from="1655384726271" duration="9000" />
+      <workItem from="1655385762633" duration="6524000" />
+      <workItem from="1655451682872" duration="8026000" />
+      <workItem from="1655477159261" duration="13000" />
+      <workItem from="1655477312355" duration="760000" />
+      <workItem from="1655711085341" duration="5260000" />
+      <workItem from="1655730029864" duration="6541000" />
+      <workItem from="1655796631748" duration="6188000" />
+      <workItem from="1655884244312" duration="1016000" />
+      <workItem from="1655887101510" duration="9276000" />
+      <workItem from="1655907084614" duration="4801000" />
+      <workItem from="1655969075488" duration="15927000" />
+      <workItem from="1656055937250" duration="1825000" />
+      <workItem from="1656063546775" duration="6026000" />
+      <workItem from="1656077741147" duration="1379000" />
+      <workItem from="1656079140242" duration="2525000" />
+      <workItem from="1656314882423" duration="9572000" />
+      <workItem from="1656401855968" duration="1614000" />
+      <workItem from="1656403613310" duration="12193000" />
+      <workItem from="1656422835185" duration="167000" />
+      <workItem from="1656423017766" duration="2042000" />
+      <workItem from="1656493876644" duration="14440000" />
+      <workItem from="1656590937773" duration="9588000" />
+      <workItem from="1656660777767" duration="13142000" />
+      <workItem from="1656920253729" duration="892000" />
+      <workItem from="1656921162282" duration="7276000" />
+      <workItem from="1656928499162" duration="5984000" />
+      <workItem from="1656942641500" duration="636000" />
+      <workItem from="1656944342662" duration="312000" />
+      <workItem from="1656944962936" duration="13211000" />
+      <workItem from="1657092729360" duration="4691000" />
+      <workItem from="1657106907178" duration="6863000" />
+      <workItem from="1657179587961" duration="83000" />
+      <workItem from="1657179682954" duration="11961000" />
+      <workItem from="1657265684376" duration="4992000" />
+    </task>
+    <task id="LOCAL-00001" summary="dempartner new version">
+      <created>1654776689685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654776689685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dempartner new version" />
+    <option name="LAST_COMMIT_MESSAGE" value="dempartner new version" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
